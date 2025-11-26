@@ -1,3 +1,4 @@
+![logo](https://github.com/ariyaayesha/ariyaayesha/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Ayesha</h1>
 <h3 align="center">Passionate and driven CSE engineer focused on building impactful AI solutions. I work with Machine Learning, Deep Learning, Computer Vision, and Web Development to solve real-world challenges in healthcare, environment, and automation. I love transforming raw data into intelligent systems, exploring cutting-edge technologies, and creating clean, meaningful projects. Always exploring. Always learning. Always improving.</h3>
 
